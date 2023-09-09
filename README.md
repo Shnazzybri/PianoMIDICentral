@@ -29,3 +29,11 @@ PianoMIDICentral thrives with the community's creativity. Whether you have codin
 
 ## License
 PianoMIDICentral is protected under the MIT License. View the LICENSE.md file for detailed insights.
+
+## Development Roadmap
+
+- Designing a user-friendly interface with functionalities such as MIDI playback and visual representation.
+- Implementing the backend with capabilities for user registration, MIDI file upload/download, and multimedia storage.
+- Integrating the Web MIDI API to handle MIDI input/output for features such as live MIDI recording from a connected keyboard or playback to a digital piano.
+- Testing features rigorously for functionality and security.
+- The idea of PianoMIDICentral is adaptable and can be expanded upon. While the initial vision is provided, creating a fully functional platform requires detailed planning, coding, and iterative feedback.
